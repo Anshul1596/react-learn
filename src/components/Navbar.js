@@ -2,7 +2,6 @@ import React from 'react'
 
 export default function Navbar() {
   return (
-    <div>
         <nav className="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
   <div className="container-fluid">
     <a className="navbar-brand" href="/">Navbar</a>
@@ -39,6 +38,5 @@ export default function Navbar() {
     </div>
   </div>
   </nav>
-    </div>
   )
 }
